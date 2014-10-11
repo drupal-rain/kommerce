@@ -1,0 +1,8 @@
+name = Kommerce
+description = eCommerce feature.
+package = Keatures
+version = "7.x-0.1"
+core = "7.x"
+project = "kommerce"
+
+dependencies[] = commerce_marketplace_funds
